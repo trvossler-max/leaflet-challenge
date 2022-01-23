@@ -47,3 +47,11 @@ This visualization included:
 ### Viewing the web-page maps/visualizations
 
 The interactive web-page can be viewed by opening the html.index file from Visual Studio using Live Server. All fiels withing the Leaflet-Step-1 folder must be avaialable to the html.index file in order to launch using Live Server.
+
+### File Structure
+
+Images folder - Includes images used in readme file
+Leaflet-Step-1 folder - Includes index.html file
+   Static Subfolder - includes css and js subfolders
+      css Subfolder - includes style.css file
+      js Subfolder - includes config.js and logic.js files
