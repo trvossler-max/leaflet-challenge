@@ -22,7 +22,7 @@ The project includes a new set of tools that will allow users to visualize this 
 
 2. **Import & Visualize the Data**
 
-   An webpage is created to map using Leaflet that plots all of the earthquakes from the data set based on their longitude and latitude.
+   A webpage is created to map using Leaflet that plots all of the earthquakes from the data set based on their longitude and latitude.
 
    * The data markers reflect the magnitude of the earthquake by their size and and depth of the earthquake by color. Earthquakes with higher magnitudes should appear larger and earthquakes with greater depth should appear darker in color.
 
@@ -46,4 +46,4 @@ This visualization included:
 
 ### Viewing the web-page maps/visualizations
 
-The interactive web-page can be viewed by opening the html.index file from Visual Studio using Live Server.
+The interactive web-page can be viewed by opening the html.index file from Visual Studio using Live Server. All fiels withing the Leaflet-Step-1 folder must be avaialable to the html.index file in order to launch using Live Server.
